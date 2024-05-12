@@ -1,6 +1,6 @@
 # Purpose
 
-This is a forked repo created for the _IBM Full Stack Software Deeloper_ program on Coursera.
+This is a forked repo created for the _IBM Full Stack Software Developer_ program on Coursera.
 
 # LogisticsShippingRates
 Please consider the below factors while contributing
